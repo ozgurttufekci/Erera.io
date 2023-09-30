@@ -1,0 +1,32 @@
+{
+  "status": "done",
+  "assets": {
+    "1561b91d7b75f3ca2814.png": {
+      "name": "1561b91d7b75f3ca2814.png",
+      "path": "/app/frontend/bundles/1561b91d7b75f3ca2814.png",
+      "publicPath": "http://localhost:3000/frontend/bundles/1561b91d7b75f3ca2814.png"
+    },
+    "4c677b78d12c96ea7add.png": {
+      "name": "4c677b78d12c96ea7add.png",
+      "path": "/app/frontend/bundles/4c677b78d12c96ea7add.png",
+      "publicPath": "http://localhost:3000/frontend/bundles/4c677b78d12c96ea7add.png"
+    },
+    "main.js": {
+      "name": "main.js",
+      "path": "/app/frontend/bundles/main.js",
+      "publicPath": "http://localhost:3000/frontend/bundles/main.js"
+    },
+    "vendors-node_modules_pmmmwh_react-refresh-webpack-plugin_lib_runtime_RefreshUtils_js-node_mod-d6f8c0.js": {
+      "name": "vendors-node_modules_pmmmwh_react-refresh-webpack-plugin_lib_runtime_RefreshUtils_js-node_mod-d6f8c0.js",
+      "path": "/app/frontend/bundles/vendors-node_modules_pmmmwh_react-refresh-webpack-plugin_lib_runtime_RefreshUtils_js-node_mod-d6f8c0.js",
+      "publicPath": "http://localhost:3000/frontend/bundles/vendors-node_modules_pmmmwh_react-refresh-webpack-plugin_lib_runtime_RefreshUtils_js-node_mod-d6f8c0.js"
+    }
+  },
+  "chunks": {
+    "main": [
+      "vendors-node_modules_pmmmwh_react-refresh-webpack-plugin_lib_runtime_RefreshUtils_js-node_mod-d6f8c0.js",
+      "main.js"
+    ]
+  },
+  "publicPath": "http://localhost:3000/frontend/bundles/"
+}
